@@ -1,4 +1,10 @@
-# 🛡️ SiteSentry: Advanced Footprinting & Security Assessment Tool (WORK IN PROGRESS!!!)
+# 🛡️ SiteSentry: Advanced Footprinting & Security Assessment Tool (prototype)
+
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=white)
+![Scan Scope](https://img.shields.io/badge/Scope-Infrastructure%20%26%20Web-orange)
+![Recon Type](https://img.shields.io/badge/Type-Passive%20%26%20Active-lightgrey)
+![Cloud Aware](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 **Enterprise-grade reconnaissance and security assessment tool for comprehensive website footprinting, vulnerability analysis, and Open Source Intelligence (OSINT) gathering.**
 
